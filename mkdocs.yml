@@ -1,6 +1,6 @@
-site_name: Senwize Workshops
-repo_url: https://github.com/senwize/fijnstof_workshop
-repo_name: Senwize Workshops
+site_name: Provincie Zeeland Workshops
+repo_url: https://github.com/ProvincieZeeland/Remoto-workshop-tekst-website
+repo_name: Provincie Zeeland Workshops
 theme:
   name: material
   features:
