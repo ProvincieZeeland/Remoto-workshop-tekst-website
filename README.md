@@ -1,4 +1,4 @@
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 # Workshop website
 
@@ -23,10 +23,10 @@ Wanneer er commits naar de `main` branch gemerged worden zal Github Actions auto
 
 ## License
 
-Dit werk is gelicenseerd onder [Creative Commons Attribution 4.0 International License][cc-by].
+Dit werk is gelicenseerd onder [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
