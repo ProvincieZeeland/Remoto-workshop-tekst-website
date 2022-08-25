@@ -1,5 +1,3 @@
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
 # Workshop website
 
 Deze repository bevat de broncode voor de website die verschillende workshops bevat zoals de Fijnstof workshop.
